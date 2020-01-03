@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+- [x] Allows user to enter a custom amount that they want to contribute for tip
 - [x] Splits the bill (including tip among up to 4 people)
 
 ## Video Walkthrough 
